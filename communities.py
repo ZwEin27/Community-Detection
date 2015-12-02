@@ -6,7 +6,7 @@ Date: Nov. 15, 2015
 
 """
 Executing code: 
-Python communities_bonus.py input.txt image.png
+Python communities.py input.txt image.png
 
 """
 
